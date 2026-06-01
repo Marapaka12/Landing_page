@@ -16,4 +16,6 @@ Explore the landing page live: **[Insert Your Live Link / GitHub Pages Link]**
 * **Markup:** HTML5 (Semantic & SEO-optimized structure)
 * **Styling:** CSS3 (Modern Flexbox/Grid layouts, custom properties)
 * **Interactivity:** JavaScript (Smooth scrolling, interactive UI elements)
+
+* 
 ![Untitled](https://github.com/Marapaka12/Landing_page/assets/164732733/d059e542-a42a-4519-9b1b-43b166101aea)
